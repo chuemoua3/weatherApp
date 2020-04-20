@@ -1,0 +1,41 @@
+.container{
+    background: url(https://cdn.dribbble.com/users/9639/screenshots/635772/weather_shot.png);
+    max-width: 550px;
+    height: auto;
+    border: 10px solid black;
+    margin: 0 auto;
+    /* display: grid;
+    grid-template-rows: 20% 80%; */
+    text-align: center;
+    padding: 150px 25px;       
+}
+h1{
+    text-shadow: 4px 4px 10px black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bolder;
+    padding-bottom: 5vh;
+}
+p{
+    font-family: 'Caveat', cursive; 
+    font-weight: bold;
+    font-size: larger;
+}
+.card{
+    background-color: yellow;
+    margin-bottom: auto;
+    border: 1px solid black;
+    padding: 25px 25px;
+    
+}
+#zipcode{
+    text-align: center;
+}
+.showForecast{
+    font-size: 25px;
+}
+.location{
+    font-size: 25px;
+}
+
+
